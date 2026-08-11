@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 30/7/2026
-#EXTINF:-1 group-title="Odisseia" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/29649_34099_15556.png?q=100&format=pjpg&auto=webp&v=3&w=400&fit=crop&w=400&h=400",Odisseia Ep.1/8
+#EXTINF:-1 media="true" group-title="Odisseia" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/29649_34099_15556.png?q=100&format=pjpg&auto=webp&v=3&w=400&fit=crop&w=400&h=400",Odisseia Ep.1/8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
