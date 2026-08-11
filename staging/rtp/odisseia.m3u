@@ -3,5 +3,5 @@
 #EXTINF:-1 media="true" group-title="Odisseia" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/29649_34099_15556.png?q=100&format=pjpg&auto=webp&v=3&w=400&fit=crop&w=400&h=400",Odisseia Ep.1/8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/|x-dt-custom-data=PASTE_FRESH_TOKEN_HERE&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0&Origin=https://www.rtp.pt&Referer=https://www.rtp.pt/|R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/|x-dt-custom-data=eyJ1c2V2SySWQIOiJwdXJjaGFzZSIsInNlcCI6IINpb2JJtb2dfcnA2IInAwIiwibWVye2hhbnQiOiJtb2dfcnAifQ==&User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0&Origin=https://www.rtp.pt&Referer=https://www.rtp.pt/|R{SSM}|
 https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/odisseia/p1039_2_202102235564.mp4,,urlset/manifest.mpd|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.rtp.pt/&Origin=https://www.rtp.pt
