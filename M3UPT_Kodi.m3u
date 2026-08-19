@@ -54,8 +54,8 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TDS.pt" tvg-logo="https://televisaodosul.pt/wp-content/uploads/2019/10/TDS-LOGO-2-400x327.png",TDS
 https://load-balancer.azotosolutions.com/cdnedge36/canale5/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="NMTTV.pt" tvg-logo="https://www.naminhaterra.com/assets/images/Logo-1802x716.png",NMT TV
-https://rtmp.w2.stream-sx.com/live4/lseyJP9j/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://rfptv.pt/uploads/img_6a48101830d423.07827183.png",RFPtv
+https://rtmp.w2.stream-sx.com/live/K6Ole9wB/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://i.imgur.com/I60nQuR.png",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://play-lh.googleusercontent.com/rnnVZVyOfwYPfnz14aDWUpvnFnQB119XG9nAjKQl__-qPdqzOQYK6glwXg-gofz_p6QKvKiMnMeQhKFj93BxQA=w480-h960",Assim é Portugal
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
@@ -105,6 +105,8 @@ https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ShemarooBollywood.us" tvg-logo="https://i.imgur.com/TFxLj80.png",shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Travelxp.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",Travelxp
+https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png",Real Wild
 https://lds-realwild-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png",Italian Fishing TV
@@ -540,6 +542,8 @@ https://stream.ruc.pt/high
 https://centova.radio.com.pt/proxy/558
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://www.radiovaledominho.com/wp-content/uploads/2017/09/logo_rvm-01.png",Rádio Vale do Minho
 http://centova.radio.com.pt:9434
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://rfptv.pt/uploads/img_6a48101830d423.07827183.png",RFPtv - Rádio só Folclore de Portugal tv
+https://sonic.servsonic.com:8012/stream
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://www.radio.pt/images/broadcasts/c5/77/38212/1/c300.png",Rádio Quântica
 https://libretime.radioquantica.com/main.mp3
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://radioavfm.net/wp-content/uploads/2017/06/avfm-logo-horizontal.png",AVFM
