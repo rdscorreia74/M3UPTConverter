@@ -77,7 +77,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png",AgroBrasil TV
 https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577_output_0.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://live.agrobrasiltv.com.br/ao-vivo.html
-#EXTINF:-1 group-title="TV" tvg-id="ForaTedioTV.br" tvg-logo="https://www.foratedio.com/img/icon_foratediotv-192x192.png",Fora Tedio TV
+#EXTINF:-1 group-title="TV" tvg-id="ForaTedioTV.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/fora_tedio.png",Fora Tedio TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="LotusTV.mo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
 #https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -105,11 +105,11 @@ https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="ShemarooBollywood.us" tvg-logo="https://i.imgur.com/TFxLj80.png",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Travelxp.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",Travelxp
+#EXTINF:-1 group-title="TV" tvg-id="Travelxp.in" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/travelxp.png",Travelxp
 https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png",Real Wild
 https://lds-realwild-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png",Italian Fishing TV
+#EXTINF:-1 group-title="TV" tvg-id="ItalianFishingTV.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/italianfishingtv.jpg",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TheJamieOliverChannel.us" tvg-logo="https://i.imgur.com/4v93XUB.png",The Jamie Oliver Channel
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
