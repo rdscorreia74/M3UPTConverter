@@ -1787,6 +1787,10 @@ https://cdn.jwplayer.com/manifests/Mvuo738f.m3u8
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 16/4/2022
 https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 # Isto é Gozar com Quem Trabalha
+#EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S14E04 27-9-2026
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e65168aae251e8b7a3747e6c5be1053:333350156f37e87c14e893d79f7b646b
+https://cfvod.kaltura.com/edash/p/4526593/sp/452659300/serveFlavor/entryId/1_mj2twzgw/v/1/ev/7/flavorId/1_,1zwu4a3u,expl6iv1,s7g40gny,wm67he50,qq9aqfoe,1vnj84ik,/forceproxy/true/name/a.mp4.urlset/manifest.mpd|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://opto.sic.pt/
 #EXTINF:-1 media="true" group-title="IEGCQT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",IEGCQT S14E03 20-9-2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=af73fd52f473f2a49cef69f199a52887:88a4ebb2535f5196ccaafd41039510af
