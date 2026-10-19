@@ -18,4 +18,6 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8|User-Agent=Mozi
 
 # radios
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Radio-Cascais.jpg",Rádio Cascais
-https://play.radioregional.pt:8220/stream/2/;/stream.mp3|verifypeer=false
+#KODPROP:inputstream=inputstream.ffmpegdirect
+#KODPROP:inputstream.ffmpegdirect.mime_type=audio/mpeg
+https://play.radioregional.pt:8220/stream/2/;/stream.mp3
