@@ -147,6 +147,4 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 
 # radios
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://rdscorreia74.github.io/TVFeed_351/logos/Radio-Cascais.jpg",Rádio Cascais
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.mime_type=audio/mpeg
-https://play.radioregional.pt:8220/stream/2/;/stream.mp3|User-Agent=VLC/3.0.18%20LibVLC/3.0.18
+http://5.9.14.150:9300/;
