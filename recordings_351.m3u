@@ -1,4 +1,34 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/EPG/epg-m3upt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/EPG/epg-locomotion.xml.xz"
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 15/10/2026
-#https://videos.impresa.pt/videos/hls/sicnot/2026/10/15/3c5d9119-c6bd-4d62-a6ff-9ed41dbe42e6/video.m3u8
+#EXTM3U
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S01E01
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250507001006e001t2809d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S01E02
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250514161006e002t1665d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S01E03
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_3_20250521200642e003t0950d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S01E04
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250528161005e004t7274d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S01E05
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250604001004e005t5778d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S01E06
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250611161004e006t2809d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S01E07
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250618161004e007t7921d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S01E08
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p14914/p14914_1_20250625161005e008t1418d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S02E01
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261006161005e001t1085d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S02E02
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261013161005e002t5620d.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="Ruído",Ruído - S02E03
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261020161006e003t5234d.mp4,.urlset/index-v1-a1.m3u8
