@@ -32,3 +32,28 @@ https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_2026101
 #EXTINF:-1 media="true" group-title="Ruído",Ruído - S02E03
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p17247/p17247_1_20261020161006e003t5234d.mp4,.urlset/index-v1-a1.m3u8
+#
+#EXTINF:-1 media="true" group-title="odisseia",odisseia - S01E01
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="odisseia",odisseia - S01E02
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="odisseia",odisseia - S01E03
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="odisseia",odisseia - S01E04
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="odisseia",odisseia - S01E05
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="odisseia",odisseia - S01E06
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="odisseia",odisseia - S01E07
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
+#EXTINF:-1 media="true" group-title="odisseia",odisseia - S01E08
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:158.0) Gecko/20100101 Firefox/158.0"
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p1039/p1039_2_202102235564.mp4,.urlset/index-v1-a1.m3u8
